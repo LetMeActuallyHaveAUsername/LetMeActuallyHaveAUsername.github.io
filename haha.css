@@ -1,0 +1,14 @@
+.egg{
+    background-color: bisque;
+    margin: 50%;
+}
+
+.BasicTitle{
+    font-family:cursive;
+    color: rgb(155, 110, 81);
+
+}
+.BasicTitle:hover{
+    color: rgb(235, 174, 174);
+    
+}
